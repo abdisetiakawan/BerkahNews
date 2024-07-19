@@ -1,16 +1,15 @@
 # newsapp
 
-A new Flutter project.
+BerkahNews
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Nama Anggota Kelompok:
+Abdi Setiawan (2200016103)
+Ayyub Abdurrahman (2200016092)
+Fadillah Al Kautsar(2200016072)
+Ricky Tri Budianto (22000160100)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Kelas Matakuliah/Semester :
+C/4
